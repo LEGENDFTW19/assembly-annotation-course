@@ -1,0 +1,19 @@
+# Raw sequencing data
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+
+# Large k-mer database
+*.jf
+
+# FastQC generated files
+*.zip
+
+# Fastp output data
+*.trimmed.fastq.gz
+
+# Cluster/log files
+*.out
+*.err
+*.log
