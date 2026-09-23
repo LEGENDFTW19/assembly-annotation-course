@@ -1,16 +1,26 @@
 # Raw sequencing data
+Qar-8a/
+RNAseq_Sha/
+
+# Generated quality-control results
+read_QC/
+
+# Assembly output
+assemblies/
+
+# Large sequencing files
 *.fastq
 *.fastq.gz
 *.fq
 *.fq.gz
 
-# Large k-mer database
+# Jellyfish databases
 *.jf
 
-# FastQC generated files
+# FastQC archives
 *.zip
 
-# Fastp output data
+# Fastp trimmed reads
 *.trimmed.fastq.gz
 
 # Cluster/log files
