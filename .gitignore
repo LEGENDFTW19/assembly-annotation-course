@@ -27,3 +27,7 @@ assemblies/
 *.out
 *.err
 *.log
+
+# Raw-data symlinks
+/Qar-8a
+/RNAseq_Sha
