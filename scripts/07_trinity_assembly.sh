@@ -12,7 +12,7 @@ WORKDIR=/data/users/tsingh/assembly_annotation_course
 
 mkdir -p $WORKDIR/assemblies/trinity
 
-module load Trinity/2.15.1-foss-2021b
+module load Trinity/2.15.1-foss-2021a
 
 Trinity \
     --seqType fq \
